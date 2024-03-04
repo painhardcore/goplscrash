@@ -1,1 +1,1 @@
-Go to tools/tools_test.go and gopls will panic
+Go to tools/tools_test.go in VScode and gopls will panic
